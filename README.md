@@ -1,4 +1,4 @@
-# JAVASCRIPT MINI PROJECTS
+# JAVASCRIPT PROJECTS
 
 ![image](https://img.shields.io/badge/JavaScript-orange) 
 ![image](https://img.shields.io/badge/JavaScript_Mini_Projejects-8D3DAF)
@@ -6,7 +6,7 @@
 
 ## About
 
-This repository contains 15 mini projects that are made in HTML, CSS, and JavaScript. The projects range in complexity from simple calculators to complex password generators.
+This repository contains 15 projects that are made in HTML, CSS, and JavaScript. The projects range in complexity from simple calculators to complex password generators.
 
 [<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://js-mini-projects-mk.netlify.app/)
 
