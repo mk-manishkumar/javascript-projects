@@ -6,14 +6,14 @@
 
 ## About
 
-This repository contains 15 projects that are made in HTML, CSS, and JavaScript. The projects range in complexity from simple calculators to complex password generators.
+This repository contains 15 projects created in HTML, CSS, and JavaScript. The projects range in complexity from simple calculators to complex password generators.
 
-[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://js-mini-projects-mk.netlify.app/)
+[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://js-projects-mk.netlify.app/)
 
 
 ## Screenshots
 
-1. [Typing Game](https://github.com/mk-manishkumar/javascript-mini-projects/tree/main/01TypingGame) - [Live Link](https://js-mini-projects-mk.netlify.app/01typinggame/)
+1. [Typing Game](https://github.com/mk-manishkumar/javascript-projects/tree/main/01TypingGame) - [Live Link](https://js-projects-mk.netlify.app/01typinggame/)
    
 ![image](./01TypingGame/01-screenshot.jpg)
 
